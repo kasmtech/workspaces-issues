@@ -12,7 +12,7 @@ assignees: ''
 - [ ] Please search the existing issues for related items
 - [ ] Consult the product documentation : [Docs](https://kasmweb.com/docs/latest/index.html)
 - [ ] Consult the FAQ : [FAQ](https://kasmweb.com/docs/latest/FAQ.html)
-- [ ] Consult the Troubleshooting Guide : [FAQ](https://kasmweb.com/docs/latest/guide/troubleshooting.html)
+- [ ] Consult the Troubleshooting Guide : [Guide](https://kasmweb.com/docs/latest/guide/troubleshooting.html)
 - [ ] Reviewed existing training videos: [Youtube](https://www.youtube.com/@KasmWorkspaces )
 
 **Is your feature request related to a problem? Please describe.**

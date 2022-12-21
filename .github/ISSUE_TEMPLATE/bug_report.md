@@ -12,7 +12,7 @@ assignees: ''
 - [ ] Please search the existing issues for related problems
 - [ ] Consult the product documentation : [Docs](https://kasmweb.com/docs/latest/index.html)
 - [ ] Consult the FAQ : [FAQ](https://kasmweb.com/docs/latest/FAQ.html)
-- [ ] Consult the Troubleshooting Guide : [FAQ](https://kasmweb.com/docs/latest/guide/troubleshooting.html)
+- [ ] Consult the Troubleshooting Guide : [Guide](https://kasmweb.com/docs/latest/guide/troubleshooting.html)
 - [ ] Reviewed existing training videos: [Youtube](https://www.youtube.com/@KasmWorkspaces )
 
 **Describe the bug**
@@ -30,6 +30,13 @@ A clear and concise description of what you expected to happen.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
+
+**Workspaces Version**
+e.g Version 1.12
+
+**Workspaces Installation Method**
+e.g Single Server, Multi-Server, TrueNAS, linuxserver.io, terraform, ansible
+
 
 **Client Browser (please complete the following information):**
  - OS: [e.g. iOS]
